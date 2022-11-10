@@ -4,7 +4,9 @@
 
 
 
-# Git Commands [https://www.youtube.com/watch?v=XX-Kct0PfFc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=9]
+# Git Commands 
+* Tutotial
+  * https://www.youtube.com/watch?v=XX-Kct0PfFc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=9
     * Starting with git
       - git init [start git]
       - git add . [add all files to git]
@@ -27,3 +29,6 @@
         - git config credential.username "arshadpathan"
         - login
         - git push https://github.com/arshadpathan/ap-DY-SV17F-MP3-Player master
+        - Error and solving
+          - Dealing with Compare and pull request while uploading project in github
+            - https://www.youtube.com/watch?v=oXtwkYUVsSU
