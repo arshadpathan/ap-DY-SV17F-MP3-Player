@@ -20,4 +20,10 @@
       * Brnch Conflicts and merging
         - git checkout master [go to mater branch]
         - git merge feature-1 [merge by branch name]
-    * 
+    * Push to web  
+        - git config --list [to get the currnet user configratuions]
+        - git config --global user.name "arshadpathan"
+        - git config --global user.email arshad.pathan@gmail.com
+        - git config credential.username "arshadpathan"
+        - login
+        - git push https://github.com/arshadpathan/ap-DY-SV17F-MP3-Player master
