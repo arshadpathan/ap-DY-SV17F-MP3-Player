@@ -4,10 +4,20 @@
 
 
 
-# Git Commands
-    - git init [start git]
-    - git add . [add all files to git]
-    - git commit -m "log dicription of update"  [commit the backup point]
-    - git status [Status of changies]
-    - git log --oneline [display the backup log]
-    - git checkout master [temp check the backup commits]
+# Git Commands [https://www.youtube.com/watch?v=XX-Kct0PfFc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=9]
+    * Starting with git
+      - git init [start git]
+      - git add . [add all files to git]
+      - git commit -m "log dicription of update"  [commit the backup point]
+      - git status [Status of changies]
+      - git log --oneline [display the backup log]
+      - git checkout master [temp check the backup commits]
+    * Branching
+      - git branch feature-1 [Create the branch]
+      - git branch -a [Show the Branch]
+      - git checkout -b feature-1 [Load the branch]
+      - git branch -D feature-1 [Delete branch]
+      * Brnch Conflicts and merging
+        - git checkout master [go to mater branch]
+        - git merge feature-1 [merge by branch name]
+    * 
