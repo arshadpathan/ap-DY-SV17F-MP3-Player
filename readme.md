@@ -2,7 +2,8 @@
 
 # DY-SV17F MP3 Player with TPA3110 MONO Aplifier
 
-
+# Circuit Connections
+![Circuit Connections](/Circuits/ap-DY_SV17F-mp3-player-connections.jpg?raw=true "Circuit Connections")
 
 # Git Commands 
 * Tutotial
