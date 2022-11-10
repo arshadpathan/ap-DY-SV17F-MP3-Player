@@ -33,3 +33,7 @@
         - Error and solving
           - Dealing with Compare and pull request while uploading project in github
             - https://www.youtube.com/watch?v=oXtwkYUVsSU
+        - git remote add origin https://github.com/arshadpathan/ap-DY-SV17F-MP3-Player  [to simplifiy the long url]
+          - git push origin master [now origin is the short from of the url]
+    * Pull from web
+        - 
